@@ -48,7 +48,8 @@ export async function POST(request: Request) {
       campaignSource,
       notified,
     });
-  } catch {
+  } catch (error) {
+    console.error("Lead storage failed.", error);
     return NextResponse.json(
       { ok: false, error: "Unable to store lead." },
       { status: 500 },
