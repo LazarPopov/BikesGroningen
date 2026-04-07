@@ -51,7 +51,6 @@ export function LeadMagnetForm({
   const text = copy[locale];
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
-  const [honeypot, setHoneypot] = useState("");
   const [gdprConsent, setGdprConsent] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
@@ -73,7 +72,6 @@ export function LeadMagnetForm({
         gdprConsent,
         partnerNotification: false,
         submittedAt,
-        honeypot,
       });
 
       trackEvent(analyticsEvents.leadMagnetDownload, {
@@ -102,18 +100,6 @@ export function LeadMagnetForm({
       </p>
 
       <form onSubmit={onSubmit} className="mt-6 grid gap-4 md:grid-cols-2">
-        <div className="absolute left-[-9999px] top-auto h-px w-px overflow-hidden" aria-hidden="true">
-          <label className="grid gap-2 text-sm font-medium text-slate-700">
-            <span>Company</span>
-            <input
-              value={honeypot}
-              onChange={(event) => setHoneypot(event.target.value)}
-              tabIndex={-1}
-              autoComplete="off"
-            />
-          </label>
-        </div>
-
         <label className="grid gap-2 text-sm font-medium text-slate-700">
           <span>{text.name}</span>
           <input

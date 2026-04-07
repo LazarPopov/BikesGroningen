@@ -53,7 +53,6 @@ export function ExitIntentModal({
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
-  const [honeypot, setHoneypot] = useState("");
   const [gdprConsent, setGdprConsent] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
   const [submittedAt] = useState(() => new Date().toISOString());
@@ -124,7 +123,6 @@ export function ExitIntentModal({
         gdprConsent,
         partnerNotification: false,
         submittedAt,
-        honeypot,
       });
 
       trackEvent(analyticsEvents.leadMagnetDownload, {
@@ -156,18 +154,6 @@ export function ExitIntentModal({
         <p className="mt-3 text-sm leading-7 text-slate-700">{text.description}</p>
 
         <form onSubmit={onSubmit} className="mt-6 grid gap-4">
-          <div className="absolute left-[-9999px] top-auto h-px w-px overflow-hidden" aria-hidden="true">
-            <label className="grid gap-2 text-sm font-medium text-slate-700">
-              <span>Company</span>
-              <input
-                value={honeypot}
-                onChange={(event) => setHoneypot(event.target.value)}
-                tabIndex={-1}
-                autoComplete="off"
-              />
-            </label>
-          </div>
-
           <label className="grid gap-2 text-sm font-medium text-slate-700">
             <span>{text.name}</span>
             <input
