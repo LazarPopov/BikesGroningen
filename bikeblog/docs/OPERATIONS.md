@@ -107,8 +107,30 @@ Update the files that show up. At the moment, likely places include:
 - Lead API: `src/app/api/lead/route.ts`
 - Lead validation: `src/lib/leads/validate.ts`
 - Lead campaigns: `src/lib/leads/campaigns.ts`
+- Lead storage: `src/lib/leads/storage.ts`
 - Lead notifications: `src/lib/leads/notify.ts`
+- Supabase admin client: `src/lib/supabase/admin.ts`
+- Supabase SQL setup: `supabase/bikeblog.sql`
 - Analytics events: `src/lib/analytics/events.ts`
+
+## Supabase lead setup
+
+1. Create a Supabase project
+2. Open the SQL editor
+3. Run `supabase/bikeblog.sql`
+4. Add these env vars to `.env.local`
+
+```bash
+SUPABASE_URL=...
+SUPABASE_SERVICE_ROLE_KEY=...
+```
+
+5. Restart the dev server
+
+Important:
+
+- `SUPABASE_SERVICE_ROLE_KEY` is server-only
+- Never expose it in client-side code
 
 ## SEO and schema files
 

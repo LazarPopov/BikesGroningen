@@ -33,6 +33,7 @@ export type LeadSubmission = {
 
 export type StoredLead = LeadSubmission & {
   id: string;
+  city: string;
   createdAt: string;
   userAgent?: string;
   referrer?: string;
