@@ -1,0 +1,27 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="60" x2="1480" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9F5FB"/>
+      <stop offset="0.5" stop-color="#F8FAFD"/>
+      <stop offset="1" stop-color="#FFF3DA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <rect x="160" y="120" width="1280" height="660" rx="42" fill="#0F172A"/>
+  <rect x="214" y="182" width="244" height="48" rx="24" fill="#F2C14E"/>
+  <text x="246" y="214" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="700">Commuter Guide</text>
+  <text x="214" y="318" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Cycling to Zernike</text>
+  <text x="214" y="394" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Without the Drama</text>
+  <text x="214" y="468" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="32">Lights, routine, parking memory, and commuter-proof bike habits.</text>
+  <rect x="214" y="546" width="232" height="56" rx="28" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="252" y="581" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Check lights first</text>
+  <rect x="462" y="546" width="244" height="56" rx="28" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="500" y="581" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Fix small issues fast</text>
+  <path d="M1010 622C1088 566 1154 520 1210 470C1264 422 1302 380 1338 314" stroke="#F2C14E" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="1000" cy="632" r="34" fill="#F2C14E"/>
+  <circle cx="1210" cy="470" r="34" fill="#F2C14E"/>
+  <circle cx="1348" cy="304" r="34" fill="#F2C14E"/>
+  <text x="944" y="706" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="26" font-weight="700">Center</text>
+  <text x="1160" y="544" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="26" font-weight="700">Campus ride</text>
+  <text x="1292" y="238" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="26" font-weight="700">Zernike</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="70" x2="1490" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F2FE"/>
+      <stop offset="1" stop-color="#FEF3C7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <rect x="156" y="120" width="1288" height="660" rx="42" fill="#0F172A"/>
+  <rect x="214" y="182" width="306" height="48" rx="24" fill="#F2C14E"/>
+  <text x="246" y="214" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="700">District-ready Tune-Up</text>
+  <text x="214" y="318" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700">Get your bike event-ready</text>
+  <text x="214" y="392" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="30">Safety check, summer tune-up, and zero brake drama on the ride in.</text>
+  <rect x="930" y="194" width="334" height="464" rx="34" fill="#F8FAFC"/>
+  <circle cx="1096" cy="322" r="64" fill="#0F172A"/>
+  <rect x="1068" y="388" width="56" height="92" rx="20" fill="#0F172A"/>
+  <rect x="1014" y="432" width="164" height="188" rx="32" fill="#0F172A"/>
+  <circle cx="1052" cy="540" r="20" fill="#F2C14E"/>
+  <circle cx="1140" cy="540" r="20" fill="#38BDF8"/>
+  <path d="M832 626H1124L1172 516" stroke="#F2C14E" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="842" cy="630" r="88" stroke="white" stroke-width="18"/>
+  <circle cx="1128" cy="630" r="88" stroke="white" stroke-width="18"/>
+</svg>

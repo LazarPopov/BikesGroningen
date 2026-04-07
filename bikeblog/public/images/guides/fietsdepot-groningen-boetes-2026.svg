@@ -1,0 +1,25 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="90" y1="70" x2="1490" y2="850" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7F4FB"/>
+      <stop offset="0.45" stop-color="#F6FAFD"/>
+      <stop offset="1" stop-color="#FFF3D1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <rect x="160" y="120" width="1280" height="660" rx="42" fill="#0F172A"/>
+  <rect x="214" y="182" width="256" height="48" rx="24" fill="#F2C14E"/>
+  <text x="246" y="214" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="700">Rules and Recovery</text>
+  <text x="214" y="318" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Bike Depot and</text>
+  <text x="214" y="394" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Fines 2026</text>
+  <text x="214" y="468" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="32">Grote Markt, Ossenmarkt, Vinkhuizen, lights, and phone fines.</text>
+  <rect x="214" y="544" width="270" height="58" rx="29" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="247" y="580" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Ossenmarkt: free in 24h</text>
+  <rect x="214" y="622" width="262" height="58" rx="29" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="247" y="658" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Depot: EUR 25 after</text>
+  <rect x="1015" y="218" width="310" height="440" rx="34" fill="#FFFFFF"/>
+  <rect x="1070" y="278" width="198" height="198" rx="24" fill="#F2C14E"/>
+  <path d="M1170 330L1218 414H1122L1170 330Z" fill="#0F172A"/>
+  <rect x="1090" y="520" width="162" height="82" rx="18" fill="#0F172A"/>
+  <text x="1120" y="573" fill="white" font-family="Arial, sans-serif" font-size="42" font-weight="700">EUR 430</text>
+</svg>

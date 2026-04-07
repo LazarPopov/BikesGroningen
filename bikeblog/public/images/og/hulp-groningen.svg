@@ -1,0 +1,22 @@
+﻿<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1120" y2="590" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9F5FB"/>
+      <stop offset="0.55" stop-color="#F7FBFD"/>
+      <stop offset="1" stop-color="#F8F4EA"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <rect x="72" y="64" width="1056" height="502" rx="36" fill="#0F172A"/>
+  <rect x="120" y="112" width="220" height="44" rx="22" fill="#F2C14E"/>
+  <text x="150" y="140" fill="#0F172A" font-family="Arial, sans-serif" font-size="22" font-weight="700">Quick Help</text>
+  <text x="120" y="238" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Bike Help</text>
+  <text x="120" y="308" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">in Groningen</text>
+  <text x="120" y="378" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="28">Fast repair, theft help, fines, depot guides, and practical next steps.</text>
+  <circle cx="915" cy="340" r="94" stroke="white" stroke-width="18" stroke-opacity="0.9"/>
+  <circle cx="1054" cy="340" r="94" stroke="white" stroke-width="18" stroke-opacity="0.9"/>
+  <circle cx="915" cy="340" r="18" fill="#F2C14E"/>
+  <circle cx="1054" cy="340" r="18" fill="#F2C14E"/>
+  <path d="M845 352H976L1022 250" stroke="#F2C14E" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M940 250H1028" stroke="#F2C14E" stroke-width="14" stroke-linecap="round"/>
+</svg>

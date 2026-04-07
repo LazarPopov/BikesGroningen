@@ -1,0 +1,26 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="110" y1="60" x2="1490" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ECF7FC"/>
+      <stop offset="0.45" stop-color="#F8FAFD"/>
+      <stop offset="1" stop-color="#FFF3D8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <rect x="160" y="120" width="1280" height="660" rx="42" fill="#FFFFFF"/>
+  <rect x="214" y="182" width="260" height="48" rx="24" fill="#0077B6"/>
+  <text x="246" y="214" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Student Comparison</text>
+  <text x="214" y="318" fill="#0F172A" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Swapfiets vs</text>
+  <text x="214" y="394" fill="#0F172A" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Buying a Bike</text>
+  <text x="214" y="468" fill="#475569" font-family="Arial, sans-serif" font-size="32">Convenience now versus lower total cost over the full study run.</text>
+  <rect x="938" y="218" width="182" height="420" rx="30" fill="#0F172A"/>
+  <rect x="1124" y="218" width="182" height="420" rx="30" fill="#F2C14E"/>
+  <text x="978" y="282" fill="white" font-family="Arial, sans-serif" font-size="30" font-weight="700">Rent</text>
+  <text x="1164" y="282" fill="#0F172A" font-family="Arial, sans-serif" font-size="30" font-weight="700">Buy</text>
+  <text x="970" y="370" fill="#BFDBFE" font-family="Arial, sans-serif" font-size="24">Fast start</text>
+  <text x="970" y="414" fill="#BFDBFE" font-family="Arial, sans-serif" font-size="24">Waiting risk</text>
+  <text x="970" y="458" fill="#BFDBFE" font-family="Arial, sans-serif" font-size="24">Extra fees</text>
+  <text x="1160" y="370" fill="#0F172A" font-family="Arial, sans-serif" font-size="24">Own it</text>
+  <text x="1160" y="414" fill="#0F172A" font-family="Arial, sans-serif" font-size="24">Lower long-term</text>
+  <text x="1160" y="458" fill="#0F172A" font-family="Arial, sans-serif" font-size="24">Low-key setup</text>
+</svg>

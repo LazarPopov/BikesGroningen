@@ -1,0 +1,31 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="60" x2="1490" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF1D6"/>
+      <stop offset="0.45" stop-color="#FDE68A"/>
+      <stop offset="1" stop-color="#E0F2FE"/>
+    </linearGradient>
+    <linearGradient id="night" x1="160" y1="120" x2="1410" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C2D12"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <rect x="160" y="120" width="1280" height="660" rx="42" fill="url(#night)"/>
+  <rect x="214" y="182" width="274" height="48" rx="24" fill="#F2C14E"/>
+  <text x="246" y="214" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="700">Event Guide</text>
+  <text x="214" y="312" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700">Red Bull District Ride</text>
+  <text x="214" y="388" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700">Groningen 2026</text>
+  <text x="214" y="458" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="30">Best viewing spots, crowd survival, bike parking, and a district-ready tune-up bridge.</text>
+  <text x="214" y="710" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="24" font-weight="700">Concept event cover with city-center energy</text>
+  <rect x="994" y="190" width="282" height="350" rx="34" fill="#0B1120" fill-opacity="0.55"/>
+  <path d="M1110 330L1170 280L1216 330L1184 392L1130 392L1102 356" stroke="#F2C14E" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1182" cy="454" r="94" stroke="white" stroke-width="18"/>
+  <circle cx="1306" cy="454" r="94" stroke="white" stroke-width="18"/>
+  <path d="M1098 458H1232L1272 348" stroke="#38BDF8" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1172 308L1262 308" stroke="#38BDF8" stroke-width="16" stroke-linecap="round"/>
+  <path d="M916 650L1008 582L1090 550L1168 520L1242 470L1320 416" stroke="#F2C14E" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="906" cy="656" r="22" fill="#F2C14E"/>
+  <circle cx="1320" cy="416" r="22" fill="#38BDF8"/>
+</svg>

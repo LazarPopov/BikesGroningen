@@ -1,0 +1,25 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="80" x2="1500" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9F5FB"/>
+      <stop offset="0.5" stop-color="#F7FBFD"/>
+      <stop offset="1" stop-color="#EAF0F8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <rect x="160" y="120" width="1280" height="660" rx="42" fill="#FFFFFF"/>
+  <rect x="214" y="182" width="228" height="48" rx="24" fill="#0F172A"/>
+  <text x="246" y="214" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Anti-theft Guide</text>
+  <text x="214" y="318" fill="#0F172A" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Prevent Bike Theft</text>
+  <text x="214" y="394" fill="#0F172A" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">in Groningen</text>
+  <text x="214" y="468" fill="#475569" font-family="Arial, sans-serif" font-size="32">Two locks, low-key bikes, better habits, and tracker backup.</text>
+  <rect x="214" y="546" width="200" height="56" rx="28" fill="#0077B6"/>
+  <text x="252" y="581" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Use 2 locks</text>
+  <rect x="432" y="546" width="224" height="56" rx="28" fill="#F2C14E"/>
+  <text x="470" y="581" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="700">Stay low-key</text>
+  <g>
+    <rect x="1024" y="244" width="288" height="356" rx="36" fill="#0F172A"/>
+    <rect x="1096" y="388" width="144" height="144" rx="72" stroke="#F2C14E" stroke-width="28"/>
+    <path d="M1138 366V326C1138 287 1167 258 1204 258C1241 258 1270 287 1270 326V366" stroke="#F2C14E" stroke-width="28" stroke-linecap="round"/>
+  </g>
+</svg>

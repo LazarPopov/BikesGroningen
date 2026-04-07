@@ -1,0 +1,23 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="100" y1="60" x2="1500" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F2FE"/>
+      <stop offset="1" stop-color="#FFF1D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <rect x="154" y="118" width="1292" height="664" rx="40" fill="#0F172A"/>
+  <rect x="218" y="178" width="254" height="48" rx="24" fill="#F2C14E"/>
+  <text x="250" y="210" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="700">Viewing Spot POV</text>
+  <path d="M210 590C360 512 508 486 650 460C770 438 876 420 1014 380C1148 342 1248 288 1382 212" stroke="#38BDF8" stroke-width="16" stroke-linecap="round"/>
+  <path d="M250 680L426 598L610 540L790 500L966 460L1132 410L1352 312" stroke="#94A3B8" stroke-width="12" stroke-linecap="round"/>
+  <rect x="254" y="626" width="248" height="84" rx="22" fill="#FFFFFF" fill-opacity="0.08"/>
+  <text x="286" y="676" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="700">Your sightline</text>
+  <rect x="1142" y="214" width="162" height="208" rx="22" fill="#F8FAFC"/>
+  <text x="1172" y="284" fill="#0F172A" font-family="Arial, sans-serif" font-size="28" font-weight="700">Rider line</text>
+  <circle cx="1222" cy="352" r="44" fill="#F2C14E"/>
+  <path d="M1200 352L1218 326L1240 350L1224 378H1198" stroke="#0F172A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="236" y="310" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Top 3 Local</text>
+  <text x="236" y="382" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700">Viewing Angles</text>
+  <text x="236" y="452" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="30">Forum side for overview, west side fallback for mobility, Vismarkt for finish energy.</text>
+</svg>

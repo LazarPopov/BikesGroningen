@@ -1,0 +1,34 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="90" y1="40" x2="1480" y2="860" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9F5FB"/>
+      <stop offset="0.48" stop-color="#D9EEF8"/>
+      <stop offset="1" stop-color="#F8F4EA"/>
+    </linearGradient>
+    <linearGradient id="card" x1="260" y1="180" x2="1280" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0369A1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" rx="40" fill="url(#bg)"/>
+  <circle cx="1300" cy="160" r="120" fill="#F2C14E" fill-opacity="0.3"/>
+  <circle cx="1380" cy="720" r="170" fill="#0077B6" fill-opacity="0.12"/>
+  <rect x="170" y="120" width="1260" height="660" rx="40" fill="url(#card)"/>
+  <rect x="230" y="182" width="212" height="48" rx="24" fill="#F2C14E"/>
+  <text x="262" y="214" fill="#0F172A" font-family="Arial, sans-serif" font-size="24" font-weight="700">Bikes Groningen</text>
+  <text x="230" y="310" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700">Student Bike Guide</text>
+  <text x="230" y="388" fill="white" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700">Groningen 2026</text>
+  <text x="230" y="466" fill="#BFDBFE" font-family="Arial, sans-serif" font-size="32">Cheap bikes, anti-theft habits, fines, depot, and Zernike survival.</text>
+  <rect x="230" y="544" width="236" height="54" rx="27" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect x="482" y="544" width="248" height="54" rx="27" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect x="746" y="544" width="214" height="54" rx="27" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="262" y="578" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Buy Smart</text>
+  <text x="516" y="578" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Avoid Theft</text>
+  <text x="784" y="578" fill="white" font-family="Arial, sans-serif" font-size="24" font-weight="700">Know Fines</text>
+  <circle cx="1150" cy="505" r="118" stroke="#FFFFFF" stroke-width="22" stroke-opacity="0.9"/>
+  <circle cx="1325" cy="505" r="118" stroke="#FFFFFF" stroke-width="22" stroke-opacity="0.9"/>
+  <circle cx="1150" cy="505" r="22" fill="#F2C14E"/>
+  <circle cx="1325" cy="505" r="22" fill="#F2C14E"/>
+  <path d="M1060 520H1228L1284 396" stroke="#F2C14E" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1180 396H1290" stroke="#F2C14E" stroke-width="18" stroke-linecap="round"/>
+</svg>
