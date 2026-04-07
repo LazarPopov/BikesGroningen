@@ -15,9 +15,9 @@ type ExitIntentModalProps = {
 const copy = {
   nl: {
     eyebrow: "Voor je weggaat",
-    title: "Download de Groningen Bike Map",
+    title: "The Groningen First Year Survival Guide 2026",
     description:
-      "Pak de gids voordat je weggaat en zet ankerpunten voor diefstalpreventie en veilige fietsroutines vast.",
+      "Everything you need to know (and what the KEI-week won't tell you).",
     name: "Naam",
     email: "E-mail",
     consent: "Ik geef toestemming om mijn gegevens op te slaan voor deze aanvraag.",
@@ -29,9 +29,9 @@ const copy = {
   },
   en: {
     eyebrow: "Before you leave",
-    title: "Download the Groningen Bike Map",
+    title: "The Groningen First Year Survival Guide 2026",
     description:
-      "Grab the guide before you leave and save key anti-theft and everyday cycling tips.",
+      "Everything you need to know (and what the KEI-week won't tell you).",
     name: "Name",
     email: "Email",
     consent: "I give permission to store my data for this request.",

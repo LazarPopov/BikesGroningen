@@ -16,7 +16,7 @@ export const groningenConfig: CityGuideConfig = {
     nl: "De ultieme fietsgids voor Groningen. Vermijd boetes, vind de beste tweedehands deals en krijg lokale reparatietips van Groningens meest vertrouwde fietsexperts.",
     en: "The ultimate Groningen bike guide. Avoid fines, find the best second-hand deals, and get local repair tips from Groningen's most trusted cycling experts.",
   },
-  leadMagnet: "/downloads/groningen-bike-map.pdf",
+  leadMagnet: "/downloads/groningen-first-year-survival-guide-2026.pdf",
   neighborhoods: ["Vinkhuizen", "Helpman", "Korrewegwijk", "Centrum", "Selwerd"],
   partner: {
     id: "bikes-groningen-config",

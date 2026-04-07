@@ -29,12 +29,6 @@ export const groningenAds: AdEntry[] = [
       en: "Jobs",
     },
     theme: "amber",
-    imageUrl: "/images/ads/student-jobs-groningen.jpg",
-    imageAlt: {
-      nl: "Student die in Groningen werkt achter een laptop",
-      en: "Student working on a laptop in Groningen",
-    },
-    imageLowerDesktop: true,
   },
   {
     id: "signaal-rentals-groningen",

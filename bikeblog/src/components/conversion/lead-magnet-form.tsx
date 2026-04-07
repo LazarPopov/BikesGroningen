@@ -15,12 +15,12 @@ type LeadMagnetFormProps = {
 const copy = {
   nl: {
     eyebrow: "Gratis pdf-gids",
-    title: "Download de Groningen Bike Map",
+    title: "The Groningen First Year Survival Guide 2026",
     description:
-      "Download de Groningen Bike Map PDF.",
+      "Everything you need to know (and what the KEI-week won't tell you).",
     name: "Naam",
     email: "E-mail",
-    submit: "Download gratis gids",
+    submit: "Download survival guide",
     loading: "Bezig...",
     consent:
       "Ik geef toestemming om mijn gegevens op te slaan voor deze aanvraag.",
@@ -29,12 +29,12 @@ const copy = {
   },
   en: {
     eyebrow: "Free PDF Guide",
-    title: "Download the Groningen Bike Map",
+    title: "The Groningen First Year Survival Guide 2026",
     description:
-      "Download the Groningen Bike Map PDF.",
+      "Everything you need to know (and what the KEI-week won't tell you).",
     name: "Name",
     email: "Email",
-    submit: "Download free guide",
+    submit: "Download survival guide",
     loading: "Loading...",
     consent:
       "I give permission to store my data for this request.",
